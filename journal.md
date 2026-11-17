@@ -434,3 +434,7 @@
 ## 2026-11-16
 
 - (add today's notes here)
+
+## 2026-11-17
+
+- (add today's notes here)
