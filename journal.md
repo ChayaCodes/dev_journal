@@ -446,3 +446,7 @@
 ## 2026-11-19
 
 - (add today's notes here)
+
+## 2026-11-20
+
+- (add today's notes here)
